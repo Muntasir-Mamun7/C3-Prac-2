@@ -1,0 +1,59 @@
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.njupt-image {
+    width: 300px;
+    height: 300px;
+    border-radius: 100px;
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+table {
+   width: 1000px;
+
+border-width: 1px;
+border-style: solid
+}
+   
+tr {
+    border-style: solid;
+    height: 30px;
+    border: none;
+}
+.tr-1 {
+   background-color: rgba(14, 91, 206, 0.858);
+   color: white;
+}
+th {
+    text-align: left;
+    padding-left: 10px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.input-1, .input-2,.input-3,.input-4, .input-5 {
+    width: 1000px;
+    border-width: .5px;
+    border-radius: 5px;
+    background-color: rgb(178, 237, 255);
+    height: 30px;
+}
+.button {
+    height: 30px;
+    width: 100px;
+    margin-top: 10px;
+    background-color: rgb(19, 71, 229);
+    border: none;
+    color: white;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px rgb(142, 139, 139);
+    transition: .2s;
+    
+}
+.button:hover {
+    opacity: .8;
+}
+.button:active {
+    opacity: .5;
+}
